@@ -1,0 +1,20 @@
+{
+  "name": "rimau-chefs",
+  "version": "1.0.0",
+  "description": "RimauSwap masterchef, RimauVault, SafeMasterChefOwner, SafeRimauVaultAdmin, SafeRimauVaultOwner contracts ",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rimauswap",
+    "rimau",
+    "rimauswap.finance",
+    "dex"
+  ],
+  "author": "info@rimauswap.finance",
+  "license": "MIT"
+}
